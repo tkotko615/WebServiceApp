@@ -32,7 +32,7 @@ namespace WebServiceApp.Controllers
             }
             return Ok(product);
         }
-
+        /*
         // GET api/<controller>
         public IEnumerable<string> Get()
         {
@@ -59,5 +59,6 @@ namespace WebServiceApp.Controllers
         public void Delete(int id)
         {
         }
+        */
     }
 }
